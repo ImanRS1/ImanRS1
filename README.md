@@ -2,6 +2,10 @@
 ![Skärminspelning 2022-06-23 kl  13 12 02](https://user-images.githubusercontent.com/67381660/175291532-f4c1d975-185b-4b18-8152-74cb18b6fa8d.gif)
 
 ### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanrs1&count_private=true&theme=tokyonight&show_icons=true)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imanrs1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ImanRS1/ImanRS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
