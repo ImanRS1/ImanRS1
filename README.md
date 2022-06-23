@@ -1,10 +1,7 @@
+
+![Skärminspelning 2022-06-23 kl  13 12 02](https://user-images.githubusercontent.com/67381660/175291532-f4c1d975-185b-4b18-8152-74cb18b6fa8d.gif)
+
 ### Hi there 👋
-
-<img src="https://i.imgur.com/h48bMzk.gif"/>
-<video width="320" height="240" autoplay>
-  <source src="https://i.imgur.com/P8QRvlu.mp4" type="video/mp4">
-</video>
-
 <!--
 **ImanRS1/ImanRS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
