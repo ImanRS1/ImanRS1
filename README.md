@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/P8QRvlu.mp4"/>
+<img src="https://i.imgur.com/h48bMzk.gif"/>
 
 <!--
 **ImanRS1/ImanRS1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
