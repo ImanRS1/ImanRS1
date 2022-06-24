@@ -1,6 +1,5 @@
 
-![Skärminspelning 2022-06-23 kl  13 12 02](https://user-images.githubusercontent.com/67381660/175291532-f4c1d975-185b-4b18-8152-74cb18b6fa8d.gif)
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67381660/175662221-366c8b24-7520-483f-a3d6-4f4608428cbb.gif)
 
 
 <h1 align="center">Hi 👋, I'm Iman</h1>
