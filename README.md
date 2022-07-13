@@ -2,10 +2,10 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67381660/175662221-366c8b24-7520-483f-a3d6-4f4608428cbb.gif)
 
 
-<h1 align="center">Hi 👋, I'm Iman</h1>
+<h1 align="center">Hi 🙋🏽‍♂️, I'm Iman</h1>
 <h3 align="center">A professional full stack developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://imanrs1.github.io/Iman-Portfolio](https://imanrs1.github.io/Iman-Portfolio)
+- 👨🏽‍💻 All of my projects are available at [https://imanrs1.github.io/Iman-Portfolio](https://imanrs1.github.io/Iman-Portfolio)
 
 - 📫 How to reach me **iman.rezasoltani@gmail.com**
 
