@@ -1,11 +1,12 @@
-
-![temp2](https://user-images.githubusercontent.com/67381660/181210434-d48efbb0-e685-4d0b-a488-4a85774842d9.gif)
+![urbanlandscape](https://user-images.githubusercontent.com/67381660/181213432-7f7bbb15-60e9-4a76-9a41-81c8302180cc.gif)
 
 
 
 
 <h1 align="center">Hi 🙋🏽‍♂️, I'm Iman</h1>
 <h3 align="center">A professional full stack developer.</h3>
+
+- 🏢 Currently working at Bonnier News as a software developer
 
 - 👨🏽‍💻 All of my projects are available at [https://imanrs1.github.io/Iman-Portfolio](https://imanrs1.github.io/Iman-Portfolio)
 
