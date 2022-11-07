@@ -22,9 +22,9 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imanrs1&count_private=true&theme=tokyonight&show_icons=true&locale=en" alt="imanrs1" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imanrs1&count_private=true&theme=tokyonight&show_icons=true&locale=en" alt="imanrs1" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanrs1&show_icons=true&locale=en&layout=compact" alt="imanrs1" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanrs1&show_icons=true&locale=en&layout=compact" alt="imanrs1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanrs1&" alt="imanrs1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanrs1&" alt="imanrs1" /></p>
 
