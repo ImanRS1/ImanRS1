@@ -8,7 +8,7 @@
 
 - 🏢 Currently working at Bonnier News as a software developer
 
-- 👨🏽‍💻 Check out my portfolio at [https://imanrs1.github.io/Iman-Portfolio](https://imanrs1.github.io/Iman-Portfolio)
+- 👨🏽‍💻 Check out my portfolio at [iman.contact](https://iman.contact)
 
 - 📫 How to reach me **iman.rezasoltani@gmail.com**
 
