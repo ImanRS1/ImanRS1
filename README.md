@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm Iman</h1>
 <h3 align="center">A professional full stack developer.</h3>
 
-- 🏢 Currently working at Bonnier News as a software developer
+- 🏢 Currently working at Quartr as a software developer
 
 - 👨🏽‍💻 Check out my portfolio at [iman.contact](https://iman.contact)
 
